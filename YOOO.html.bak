@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title></title>
+  </head>
+  <body style="  background-color:#B2B4C2">
+    <p style="text-align: center;"><br>
+    </p>
+    <table style="width: 1150px; height: 180px;" border="1">
+      <tbody>
+        <tr>
+          <td style="width: 150.8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="file:///C:/Users/Chiquis/Desktop/YO/00000000000.jpeg"
+              alt="" title="MarMag#9" style="width: 123px; height: 165px;"></td>
+          <td style="text-align: center; background-color: #666666; width: 999.2px;">
+            <h4>&nbsp;&nbsp; My name is María Magdalena Jacobo Almanza, I am 20
+              years old and I am currently studying at the Technological
+              University of the State of Zacatecas the career of information
+              technologies </h4>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="text-align: center;"><br>
+    </p>
+    <p><br>
+    </p>
+    <p><b>Skills:&nbsp;</b>&nbsp;&nbsp; </p>
+    <ul>
+      <li>Install video surveillance cameras.</li>
+      <li>Routers and switches configuration.</li>
+      <li>Server configuration.</li>
+      <li>DVR Configuration.</li>
+    </ul>
+    <p><b>Certifications:</b></p>
+    <ul>
+      <li>Basic principles of routing and switching.</li>
+      <li>Introduction to networks.</li>
+      <li>Network scaling.</li>
+      <li>TOEIC.</li>
+    </ul>
+    <p><br>
+    </p>
+    <p><b>Works:</b></p>
+    <ul>
+      <li>LMi Group </li>
+    </ul>
+  </body>
+</html>
